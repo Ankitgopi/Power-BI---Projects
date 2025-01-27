@@ -16,4 +16,10 @@
 
 ## Skills Accquired:
 * Tech:  Power BI along with dashboarding.
-* Core: Understanding of the hotel business and develop and analytical mindset.
+* Core: Understanding of the hotel business and develop an analytical mindset.
+
+## Project Explanation
+* Situation: Atliq Grand, a five-star hotel, noticed a loss in its market share and wanted to address this issue.
+* Task: To facilitate data-informed decision-making, I developed an end-to-end dashboard.
+* Action:  Using Power BI, I analysed data to track revenue by category, trends by key metrics, property performance, realization percentage, and several other KPIs.
+* Result: This dashboard enabled the Revenue team to regain their revenue and market share by 20% in the next month.
