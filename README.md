@@ -1,4 +1,3 @@
-# Revenue Insights in Hospitality Domain
 
 ## Scenario
  AtliQ Grands, a luxury/business hotel chain, is experiencing a decline in
